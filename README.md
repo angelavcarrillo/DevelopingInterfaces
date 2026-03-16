@@ -1,0 +1,1 @@
+In this project I practiced creating views, inspecting their size by building two onboarding screens for an iOS app. I was also given the toold to customize my colors and this project was great as it gave me a visual representation on what certain modifiers do.
